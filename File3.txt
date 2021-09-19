@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Update from local
+=======
+Update from Github
+>>>>>>> bd6e0149a93622ff3c3fe20fc371d23a87bf1a3a
